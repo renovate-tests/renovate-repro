@@ -37,7 +37,7 @@ pathtools = ">=0.1.1"
 
 [metadata]
 content-hash = "9586fee1fe28bce73ea5249c439b89eaeb48dc4446852c136f9af52b25b909f9"
-python-versions = "^3.8"
+python-versions = "^3.7"
 
 [metadata.files]
 argh = [
