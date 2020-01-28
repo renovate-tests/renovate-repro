@@ -8,7 +8,7 @@ authors = ["Christian Franke <nobody@nowhere.ws>"]
 python = "^3.7"
 
 [tool.poetry.dev-dependencies]
-watchdog = "0.9.0"
+watchdog = "0.10.0"
 
 [build-system]
 requires = ["poetry>=0.12"]
