@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "poetry-problem"
+version = "0.1.0"
+description = ""
+authors = ["Christian Franke <nobody@nowhere.ws>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+watchdog = "0.9.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
